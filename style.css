@@ -589,6 +589,15 @@ transition: background-color 0.5s ease-in-out;
   height: 100%;
 }
 
+.project-name{
+  font-size: 28px;
+  font-weight: bold;
+  position: relative;
+  top: -25px;
+  text-align: center;
+  background-color: #ba68c8;
+  color:white;
+}
 
 .view-icon {
   color: #fff;
